@@ -6,3 +6,15 @@ function mineBitcoin(duration) {
     
     } // TODO: Make $$$
 }
+
+function doNothing(){
+    console.log("I'm doing nothing");
+    console.log("I'm doing nothing");
+    console.log("I'm doing nothing");
+    console.log("I'm doing nothing");
+    console.log("I'm doing nothing");
+    console.log("I'm doing nothing");
+    console.log("I'm doing nothing");
+    console.log("I'm doing nothing");
+    console.log("I'm doing nothing");
+}
